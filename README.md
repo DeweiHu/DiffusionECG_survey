@@ -14,3 +14,4 @@ This is an actively updating survey for the implementation of diffusion probabil
 | 8 |ECGDiff: Conditional Diffusion Model for ECG Reconstruction from Doppler Signals | IEEE International Conference on Communications | Signal | 2024 | - |
 | 9 |DS4U-Net: A Diffusion Model-Based Approach to Multi-Lead ECG Signal Generation | ICSP | Signal | 2024 | - |
 | 10 |DiffuSETS: 12-lead ECG Generation Conditioned on Clinical Text Reports and Patient-Specific Information | KDD Workshop | Latent | 2024 | - |
+| 11 |Uncertainty-Aware PPG-2-ECG for Enhanced Cardiovascular Diagnosis using Diffusion Models | arXiv | Latent | 2024 | - |
