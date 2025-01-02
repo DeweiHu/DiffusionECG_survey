@@ -15,3 +15,4 @@ This is an actively updating survey for the implementation of diffusion probabil
 | 9 |DS4U-Net: A Diffusion Model-Based Approach to Multi-Lead ECG Signal Generation | ICSP | Signal | 2024 | - |
 | 10 |DiffuSETS: 12-lead ECG Generation Conditioned on Clinical Text Reports and Patient-Specific Information | KDD Workshop | Latent | 2024 | - |
 | 11 |Uncertainty-Aware PPG-2-ECG for Enhanced Cardiovascular Diagnosis using Diffusion Models | arXiv | Latent | 2024 | - |
+| 12 |Text-to-ecg: 12-lead electrocardiogram synthesis conditioned on clinical text reports | ICASSP | Latent | 2024 | - |
