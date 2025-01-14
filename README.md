@@ -8,7 +8,7 @@ This is an actively updating survey for the implementation of diffusion probabil
 | 2 |Leveraging an ECG Beat Diffusion Model for Morphological Reconstruction from Indirect Signals | NeurIPS | Signal | 2024 | [link](https://github.com/LisaBedin/BeatDiff) |
 | 3 |Bayesian ecg reconstruction using denoising diffusion generative models | arXiv | Signal | 2023 | [link](https://github.com/NVlabs/edm) |
 | 4 |Synthetic ecg signal generation using probabilistic diffusion models | IEEE Access | Signal | 2023 | - |
-| 5 |Diffusion-based conditional ECG generation with structured state space models | Computers in Biology and Medicine | Signal | 2023 | - |
+| 5 |Diffusion-based conditional ECG generation with structured state space models | Computers in Biology and Medicine | Signal | 2023 | [link](https://github.com/AI4HealthUOL/SSSD-ECG) |
 | 6 |Descod-ecg: Deep score-based diffusion model for ecg baseline wander and noise removal | IEEE Journal of Biomedical and Health Informatics | Signal | 2023 | - |
 | 7 |DiffECG: A Versatile Probabilistic Diffusion Model for ECG Signals Synthesis | arXiv | Signal | 2023 | - |
 | 8 |ECGDiff: Conditional Diffusion Model for ECG Reconstruction from Doppler Signals | IEEE International Conference on Communications | Signal | 2024 | - |
